@@ -11,7 +11,39 @@
       "groups": {
         "Eidetic Memoscans, TOOR Scans": "/proxy/api/imgur/chapter/D5XHNFz/"
       },
-      "last_updated": "1617711492"
+      "last_updated": "1617733119"
+    },
+    "3": {
+      "title": "Song 3",
+      "volume": "1",
+      "groups": {
+        "Eidetic Memoscans, TOOR Scans": "/proxy/api/imgur/chapter/eYUZ1TK/"
+      },
+      "last_updated": "1617733119"
+    },
+    "2": {
+      "title": "Song 2",
+      "volume": "1",
+      "groups": {
+        "Eidetic Memoscans, TOOR Scans": "/proxy/api/imgur/chapter/HYmsLVB/"
+      },
+      "last_updated": "1617733119"
+    },
+    "1": {
+      "title": "Song 1",
+      "volume": "1",
+      "groups": {
+        "Eidetic Memoscans, TOOR Scans": "/proxy/api/imgur/chapter/k2bC2ad/"
+      },
+      "last_updated": "1617733119"
+    },
+    "0": {
+      "title": "Intro",
+      "volume": "1",
+      "groups": {
+        "Eidetic Memoscans, TOOR Scans": "/proxy/api/imgur/chapter/KxXHH07/"
+      },
+      "last_updated": "1617733119"
     }
   }
 }
