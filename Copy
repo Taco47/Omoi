@@ -1,0 +1,17 @@
+{
+  "title": "Copy Singer",
+  "description": "In the future, when music becomes illegal, an illegal hacker singer enters the stage. From the first strum of the guitar, the world will never be quiet again.",
+  "artist": "Kan",
+  "author": "Kan",
+  "cover": "https://avt.mkklcdnv6temp.com/40/t/21-1596114459.jpg",
+  "chapters": {
+    "4": {
+      "title": "Song 4",
+      "volume": "1",
+      "groups": {
+        "Eidetic Memoscans, TOOR Scans": "/proxy/api/imgur/chapter/D5XHNFz/"
+      },
+      "last_updated": "1617711492"
+    }
+  }
+}
